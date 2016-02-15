@@ -1,0 +1,71 @@
+body{
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+
+}
+div.header{
+	margin: auto;
+	width: 960px;
+
+}
+div.container{
+	margin: auto;
+	width: 960px;
+	background-color: white;
+	font-family: Arial;
+}
+h1{
+	font-family: Ravie;
+	font-size: 80px;
+	color: white;
+}
+div.nav ul{
+	background-color: #B40404;
+	height:47px;
+}
+div.nav ul li{
+	display: inline;
+	float: left;
+}
+div.nav a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	display: block;
+	width: 200px;
+	padding: 12px;
+}
+div.nav a:hover{
+	background-color: grey;
+}
+div.content{  
+	margin: 20px;
+}
+h2{
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+div.content ul{
+	list-style-type: none;
+}
+div.content ul li{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+ul li span{
+	display: inline-block;
+	width: 400px;
+}
+input{
+	font-size: 20px;
+}
+input.Submit{
+	margin-left: 400px;
+}
+div.footer{
+	text-align: center;
+	background-color: #0B3B24;
+	color: white;
+	padding: 5px;
+}
